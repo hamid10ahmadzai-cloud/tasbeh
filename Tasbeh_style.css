@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url("https://www.shutterstock.com/image-photo/muslim-man-holding-tasbeeh-counter-260nw-1443987410.jpg");
+    background-size: cover;
+}    
+button {
+    padding: 30px 160px;
+    border: none;
+    border-radius: 20%;
+    font-size: large;
+    font-weight: bolder;
+}
+#Add:hover {
+    background-color: rgb(33, 54, 33);
+    border: 5px solid black;
+}
+#Save:hover {
+    background-color: rgb(90, 15, 15);
+    border: 5px solid black;
+}
+#Add {
+    background-color: green;
+    margin-bottom: 10px;
+    
+}
+#Save {
+    background-color: red;
+}
+#reset {
+    
+    background-color: rgb(35, 212, 243);
+    text-align: center;
+}
+#reset:hover {
+    background-color: rgb(61, 96, 116);
+    border: 5px solid black;
+    
+}
